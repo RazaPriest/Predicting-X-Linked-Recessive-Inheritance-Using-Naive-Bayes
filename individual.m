@@ -1,7 +1,4 @@
 function individual(mdl,t)
-%Arif Çakır
-%090190355
-%CRN: 20662
 i = cell(1, width(t)-2);
 while 1
     i(1) = {input('Please enter sex of the person: ','s')};

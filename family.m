@@ -1,7 +1,4 @@
 function family(mdl,t)
-%Arif Çakır
-%090190355
-%CRN: 20662
 label = predict(mdl,t);
  perf = cell(1,length(label))';
 for n = 1:length(perf)

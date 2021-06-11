@@ -1,7 +1,4 @@
 function bayes(t)
-%Arif Çakır
-%090190355
-%CRN: 20662
 t1 = t(:,2:width(t));
 mdl = fitcnb(t1,'Person');
 while 1

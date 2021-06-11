@@ -1,7 +1,4 @@
 function confusionmatrix(original,predicted)
-%Arif Çakır
-%090190355
-%CRN: 20662
 C = confusionmat(original,predicted);
 label = tabulate(original);
 cc = confusionchart(C,label(1:3));

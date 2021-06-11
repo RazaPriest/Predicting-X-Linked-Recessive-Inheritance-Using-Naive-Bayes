@@ -1,6 +1,3 @@
-%Arif Çakır
-%090190355
-%CRN: 20662
 clear
 clc
 close all
