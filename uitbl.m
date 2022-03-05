@@ -1,4 +1,7 @@
 function uitbl(tbl,perf)
+%Arif Çakır
+%090190355
+%CRN: 20662
 fig = uifigure;
 uit = uitable(fig,'Data',tbl);
 r = uistyle('BackgroundColor',[1 0.6 0.6]);
